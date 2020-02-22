@@ -1,6 +1,6 @@
 # Pokemon D3 Data Visualization
 
-Interactive, animated histogram showing the relationship between each Pokemon's total stats and special defence. The user can filter by Pokemon generation or legendary status.
+Interactive, animated scatterplot showing the relationship between each Pokemon's total stats and special defence. The user can filter by Pokemon generation or legendary status.
 
 **[See it live here!](https://andreybutenko.github.io/pokemon-d3/)**
 
